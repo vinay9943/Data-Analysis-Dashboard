@@ -8,7 +8,7 @@ The objective of this project is to develop an interactive and user-friendly Hea
 -   Enhancing public awareness and transparency through clear and accessible health data visualizations.
 -   The dashboard will integrate data from multiple sources, ensure data accuracy and privacy, and support timely responses to emerging health concerns.
 #  Dataset used
--<a href="https://github.com/vinay9943/Data-Analysis-Dashboard/blob/main/health1.csv"> Heart Disease dataser</a>
+-<a href="https://github.com/vinay9943/Data-Analysis-Dashboard/blob/main/health1.csv"> Heart Disease dataset</a>
 # Quactions (KPIs)
 1.  What percentage of patients meet healthy metrics (cholesterol <200, BP <120/80)?
 2.  What is the distribution of triglyceride levels among patients with high LDL cholesterol?
