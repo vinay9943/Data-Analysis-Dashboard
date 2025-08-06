@@ -1,4 +1,4 @@
-# Health-Disease-Analysis(Crating using POWER BI)
+# Health-Disease-Analysis(using POWER BI)
 # Project Objective
 The objective of this project is to develop an interactive and user-friendly Health Disease Dashboard using Power BI to visualize, monitor, and analyze key health and disease-related metrics. The dashboard aims to provide stakeholders—including healthcare professionals, public health authorities, and policy makers—with actionable insights by:
 -   Tracking the prevalence and trends of various diseases across regions, age groups, and demographics.
